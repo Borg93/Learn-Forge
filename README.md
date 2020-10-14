@@ -25,3 +25,5 @@ https://forge-extensions.autodesk.io/
 https://github.com/Autodesk-Forge/forge-bim360-clash-powerbi
 
 https://github.com/Autodesk-Forge/forge-bim360reports
+
+https://www.autodesk.com/autodesk-university/class/Build-Machine-Learning-Valve-Design-App-Using-Autodesk-Forge-and-simulationHub-2018#video
