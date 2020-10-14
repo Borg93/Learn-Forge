@@ -18,4 +18,9 @@ This project aims to access design and engineering data in the cloud with the Fo
 #### Deployment
 * Microsoft Azure
 
+# Playground for inspo
+https://forge-extensions.autodesk.io/
 
+## inspring links..
+https://github.com/Autodesk-Forge/forge-bim360-clash-powerbi
+https://github.com/Autodesk-Forge/forge-bim360reports
