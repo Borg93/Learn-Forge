@@ -1,5 +1,5 @@
-# Simple tutotirals for Autodesk forge
-## getting started tutotiral
+# Simple tutorial for Autodesk forge
+## getting started tutorial
 - https://www.youtube.com/watch?v=tw57jY0gg1E&ab_channel=AECHackathon
 - https://www.youtube.com/watch?v=znoyiSiGx50&ab_channel=AECHackathon
 
