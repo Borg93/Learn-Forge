@@ -21,3 +21,5 @@
 - https://powerbi.microsoft.com/en-us/developers/custom-visualization/
 - https://docs.microsoft.com/sv-se/power-bi/developer/visuals/custom-visual-develop-tutorial
 
+# extended with mongoDB
+https://github.com/Autodesk-Forge/forge-rcdb.nodejs
